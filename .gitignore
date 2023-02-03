@@ -1,0 +1,9 @@
+#ignore junk folder
+junk/
+
+past winners materials/
+
+*.csv
+
+*.xlsx
+
